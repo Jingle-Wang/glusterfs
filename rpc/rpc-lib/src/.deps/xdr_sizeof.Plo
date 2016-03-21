@@ -1,0 +1,1 @@
+xdr_sizeof.lo: ../../../contrib/sunrpc/xdr_sizeof.c

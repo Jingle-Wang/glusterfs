@@ -1,0 +1,1 @@
+libglusterfs_la-mntent.lo: ../../contrib/mount/mntent.c

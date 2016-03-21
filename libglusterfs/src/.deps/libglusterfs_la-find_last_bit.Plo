@@ -1,0 +1,2 @@
+libglusterfs_la-find_last_bit.lo: \
+ ../../contrib/timer-wheel/find_last_bit.c

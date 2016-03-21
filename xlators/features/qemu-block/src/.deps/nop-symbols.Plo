@@ -1,0 +1,1 @@
+nop-symbols.lo: ../../../../contrib/qemu/nop-symbols.c
